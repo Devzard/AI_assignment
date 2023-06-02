@@ -1,0 +1,5 @@
+cffi==1.15.1
+cld2-cffi==0.1.4
+langdetect==1.0.9
+pycparser==2.21
+six==1.16.0
